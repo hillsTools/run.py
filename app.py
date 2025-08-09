@@ -22,7 +22,7 @@ async def on_ready():
     print(f"Bot logged in as {client.user}")
 
 def run_bot():
-    client.run(os.environ["MTQwMzUxMjE1NDIyNDg1MzAwMg.GVaEfg.Ftx95Lnn2XsIzhq1HSnx-1Pk4_PW1GoLFS0Ut0"])
+    client.run(os.environ["MTQwMzUxMjE1NDIyNDg1MzAwMg.G1qD9K.EFdP-fj1j7dimRzC0TXD9t7nAybS2TPBcF9rFM"])
 
 # ----- Start both -----
 if __name__ == "__main__":
